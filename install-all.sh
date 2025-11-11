@@ -7,3 +7,4 @@
 . ./install-telegram.sh
 . ./install-nvm.sh
 . ./install-postman.sh
+. ./install-thunderbird.sh
