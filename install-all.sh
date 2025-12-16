@@ -8,3 +8,5 @@
 . ./install-nvm.sh
 . ./install-postman.sh
 . ./install-thunderbird.sh
+. ./install-google-chrome.sh
+. ./install-tmux-plugin-manager.sh
